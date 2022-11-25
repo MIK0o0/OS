@@ -1,0 +1,95 @@
+Dla p = 85, dla z = 25, dla r = 50, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.78, średnie odchylenie : 6.542399999999999, liczba porównań : 2556988.0, liczba przemieszczeń : 280639.0
+Symulacja 2, średnie obciążenie : 90.62, średnie odchylenie : 2.234399999999996, liczba porównań : 2557903.0, liczba przemieszczeń : 225203.0
+Symulacja 3, średnie obciążenie : 91.06, średnie odchylenie : 16.076799999999984, liczba porównań : 2.28918861E8, liczba przemieszczeń : 463034.0
+
+
+Dla p = 85, dla z = 25, dla r = 50, dla N = 100 : 
+Symulacja 1, średnie obciążenie : 90.88, średnie odchylenie : 3.4552000000000045, liczba porównań : 4329116.0, liczba przemieszczeń : 590298.0
+Symulacja 2, średnie obciążenie : 90.76, średnie odchylenie : 1.1911999999999956, liczba porównań : 5546817.0, liczba przemieszczeń : 483401.0
+Symulacja 3, średnie obciążenie : 90.91, średnie odchylenie : 22.352200000000007, liczba porównań : 9.18945077E8, liczba przemieszczeń : 1054596.0
+
+
+Dla p = 75, dla z = 25, dla r = 50, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.66, średnie odchylenie : 5.411200000000003, liczba porównań : 4124478.0, liczba przemieszczeń : 226959.0
+Symulacja 2, średnie obciążenie : 90.48, średnie odchylenie : 3.663999999999999, liczba porównań : 5859825.0, liczba przemieszczeń : 214000.0
+Symulacja 3, średnie obciążenie : 90.8, średnie odchylenie : 24.055999999999987, liczba porównań : 2.20287446E8, liczba przemieszczeń : 659347.0
+
+
+Dla p = 75, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.92, średnie odchylenie : 5.3807999999999945, liczba porównań : 4156090.0, liczba przemieszczeń : 225753.0
+Symulacja 2, średnie obciążenie : 90.5, średnie odchylenie : 3.62, liczba porównań : 5857531.0, liczba przemieszczeń : 212872.0
+Symulacja 3, średnie obciążenie : 90.9, średnie odchylenie : 2.659999999999998, liczba porównań : 2.45319923E8, liczba przemieszczeń : 242842.0
+
+
+Dla p = 65, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.7, średnie odchylenie : 5.076000000000002, liczba porównań : 5335646.0, liczba przemieszczeń : 168615.0
+Symulacja 2, średnie obciążenie : 91.4, średnie odchylenie : 5.335999999999999, liczba porównań : 9194786.0, liczba przemieszczeń : 164259.0
+Symulacja 3, średnie obciążenie : 90.78, średnie odchylenie : 3.984, liczba porównań : 2.48287193E8, liczba przemieszczeń : 204041.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.92, średnie odchylenie : 7.1935999999999884, liczba porównań : 1258353.0, liczba przemieszczeń : 307351.0
+Symulacja 2, średnie obciążenie : 90.86, średnie odchylenie : 1.9488000000000005, liczba porównań : 817990.0, liczba przemieszczeń : 189016.0
+Symulacja 3, średnie obciążenie : 90.92, średnie odchylenie : 2.6768, liczba porównań : 2.40170332E8, liczba przemieszczeń : 221204.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 96.96, średnie odchylenie : 7.276800000000016, liczba porównań : 2139822.0, liczba przemieszczeń : 312606.0
+Symulacja 2, średnie obciążenie : 96.62, średnie odchylenie : 2.169599999999996, liczba porównań : 1775612.0, liczba przemieszczeń : 226348.0
+Symulacja 3, średnie obciążenie : 96.9, średnie odchylenie : 2.099999999999998, liczba porównań : 2.41453887E8, liczba przemieszczeń : 251262.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 94.72, średnie odchylenie : 7.2576, liczba porównań : 1692446.0, liczba przemieszczeń : 299274.0
+Symulacja 2, średnie obciążenie : 94.48, średnie odchylenie : 2.1583999999999963, liczba porównań : 1291030.0, liczba przemieszczeń : 204450.0
+Symulacja 3, średnie obciążenie : 94.66, średnie odchylenie : 2.3664, liczba porównań : 2.40904064E8, liczba przemieszczeń : 231323.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 94.84, średnie odchylenie : 7.3071999999999955, liczba porównań : 1693583.0, liczba przemieszczeń : 300266.0
+Symulacja 2, średnie obciążenie : 94.76, średnie odchylenie : 2.140799999999995, liczba porównań : 1328082.0, liczba przemieszczeń : 206103.0
+Symulacja 3, średnie obciążenie : 94.64, średnie odchylenie : 2.2, liczba porównań : 2.40789447E8, liczba przemieszczeń : 230773.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 90.48, średnie odchylenie : 7.198399999999987, liczba porównań : 1210233.0, liczba przemieszczeń : 306433.0
+Symulacja 2, średnie obciążenie : 91.02, średnie odchylenie : 1.9632000000000034, liczba porównań : 832787.0, liczba przemieszczeń : 189822.0
+Symulacja 3, średnie obciążenie : 90.6, średnie odchylenie : 2.5839999999999996, liczba porównań : 2.4014583E8, liczba przemieszczeń : 219363.0
+
+
+Dla p = 95, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 85.74, średnie odchylenie : 6.859, liczba porównań : 817909.0, liczba przemieszczeń : 294086.0
+Symulacja 2, średnie obciążenie : 86.0, średnie odchylenie : 1.76, liczba porównań : 440619.0, liczba przemieszczeń : 156394.0
+Symulacja 3, średnie obciążenie : 85.28, średnie odchylenie : 2.954, liczba porównań : 2.39092846E8, liczba przemieszczeń : 188929.0
+
+
+Dla p = 95, dla z = 25, dla r = 10, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 85.4, średnie odchylenie : 6.832, liczba porównań : 804975.0, liczba przemieszczeń : 293199.0
+Symulacja 2, średnie obciążenie : 85.32, średnie odchylenie : 1.664, liczba porównań : 411812.0, liczba przemieszczeń : 151692.0
+Symulacja 3, średnie obciążenie : 85.58, średnie odchylenie : 2.077, liczba porównań : 2.39873497E8, liczba przemieszczeń : 175083.0
+
+
+Dla p = 95, dla z = 25, dla r = 10, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 145.3, średnie odchylenie : 8.08, liczba porównań : 1.0723987E7, liczba przemieszczeń : 133615.0
+Symulacja 2, średnie obciążenie : 145.82, średnie odchylenie : 11.249, liczba porównań : 1.974691E7, liczba przemieszczeń : 134235.0
+Symulacja 3, średnie obciążenie : 145.7, średnie odchylenie : 11.188, liczba porównań : 2.59699495E8, liczba przemieszczeń : 134670.0
+
+
+Dla p = 95, dla z = 25, dla r = 10, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 89.08, średnie odchylenie : 7.086, liczba porównań : 1042083.0, liczba przemieszczeń : 289976.0
+Symulacja 2, średnie obciążenie : 88.98, średnie odchylenie : 1.878, liczba porównań : 599258.0, liczba przemieszczeń : 169444.0
+Symulacja 3, średnie obciążenie : 89.04, średnie odchylenie : 1.883, liczba porównań : 2.4026365E8, liczba przemieszczeń : 186449.0
+
+
+Dla p = 50, dla z = 25, dla r = 20, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 85.3, średnie odchylenie : 4.452, liczba porównań : 5780800.0, liczba przemieszczeń : 114405.0
+Symulacja 2, średnie obciążenie : 85.4, średnie odchylenie : 5.712, liczba porównań : 1.0427536E7, liczba przemieszczeń : 114519.0
+Symulacja 3, średnie obciążenie : 85.32, średnie odchylenie : 12.84, liczba porównań : 2.45747636E8, liczba przemieszczeń : 336536.0
+
+
+Dla p = 50, dla z = 25, dla r = 10, dla N = 50 : 
+Symulacja 1, średnie obciążenie : 85.84, średnie odchylenie : 4.586, liczba porównań : 5833879.0, liczba przemieszczeń : 113152.0
+Symulacja 2, średnie obciążenie : 85.28, średnie odchylenie : 5.806, liczba porównań : 1.0400724E7, liczba przemieszczeń : 113772.0
+Symulacja 3, średnie obciążenie : 85.22, średnie odchylenie : 4.162, liczba porównań : 2.49700849E8, liczba przemieszczeń : 156092.0
+
